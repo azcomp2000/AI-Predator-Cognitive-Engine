@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/azcomp2000">⬅️ Назад к главному портфолио</a> | 
+  <b>Хищник (этот проект)</b> | 
+  <a href="https://github.com/azcomp2000/HH-Recon-Cyborg">HH Recon Cyborg</a> | 
+  <a href="https://github.com/azcomp2000/YouTube-SEO-Analyzer">YouTube SEO Analyzer</a>
+</p>
+
+---
+
 # AI-агент с когнитивной архитектурой "Хищник"
 
 **Статус:** Рабочий продукт.
